@@ -1,0 +1,4 @@
+tolong bantu saya membuat sebuah sistem yang dapat mendukung operasional sehari hari di laundry it del, membuat sebuah sistem penjemputan dan pengantaran laundry ke setiap asrama tingkat 1, inputannya adalah asrama simon laplace dijemput hari selasa sore dan diantar pada rabu sore, asrama ada lovelace dijemput pada rabu sore dan diantar pada kamis sore, asrama louis pasteur dijemput pada minggu sore dan diantar pada senin sore, asrama archimedes dijemput pada kamis sore dan diantar pada jumat sore
+tolong buatkan program nya yang benar dan bisa di run
+tolong jelaskan programnya
+buatkan program yang benar

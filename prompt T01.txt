@@ -1,0 +1,5 @@
+tolong jelaskan kepada saya apa maksud dari soal pada gambar ini
+jelaskan bagaimana cara membuat program untuk menyelassaikan soal tersebut
+tolong buatkan versi bahasa c++ dan jelaskan kepada saya
+tolong buatkan yang benar
+buat menggunakan bahasa c
